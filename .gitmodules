@@ -1,0 +1,12 @@
+[submodule "gst-plugins-bad"]
+	path = gst-plugins-bad
+	url = ./gst-plugins-bad
+[submodule "gstreamer"]
+	path = gstreamer
+	url = ./gstreamer
+[submodule "gst-plugins-base"]
+	path = gst-plugins-base
+	url = ./gst-plugins-base
+[submodule "gst-plugins-good"]
+	path = gst-plugins-good
+	url = ./gst-plugins-good/
